@@ -1,0 +1,103 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 30px;
+}
+.button {
+    background-color: #1e5bff;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 25px;
+    display: inline-block;
+    font-weight: bold;
+    margin: 10px 0;
+}
+.content {
+    max-width: 600px;
+    margin: auto;
+}
+img {
+    width: 150px;
+    margin: 20px 0;
+}
+hr {
+    margin: 30px 0;
+    border: 1px solid #ccc;
+}
+h1, h2 {
+    color: #07214c;
+}
+h2 {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    color: #2c3e50;
+}
+.post {
+    background-color: #f7f7f7;
+    padding: 20px;
+    margin: 20px auto;
+    width: 90%;
+    max-width: 600px;
+    border-radius: 10px;
+}
+.post p {
+    color: #16567c;
+    font-size: 18px;
+    line-height: 1.5;
+}
+.read-btn {
+    display: inline-block;
+    background-color: #0f4f65;
+    color: white;
+    padding: 10px 25px;
+    border-radius: 30px;
+    text-decoration: none;
+    margin-top: 15px;
+    font-weight: bold;
+}
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+ul li {
+    margin: 8px 0;
+}
+ul li a {
+    text-decoration: none;
+    color: #2980b9;
+    font-size: 16px;
+}
+ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Category Colors */
+.category {
+    display: inline-block;
+    margin: 5px 10px 5px 0;
+    padding: 8px 12px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.uncategorized { background-color: #d2c39a; color: #a36a11; }
+.business-idea { background-color: #9d97e6; color: #2a2a91; }
+.make-money-online { background-color: #d88dbd; color: #681a4e; }
+.tips-tricks { background-color: #e7e1a2; color: #a18b15; }
+.important-questions { background-color: #a4d98d; color: #276a2e; }
+.online-jobs { background-color: #d88dbd; color: #681a4e; }
+.jobs { background-color: #d2c39a; color: #a36a11; }
+.btech-cse { background-color: #e5b8be; color: #8b2a39; }
+.aktu-quantum-series { background-color: #a4d98d; color: #276a2e; }
+.aktu-2nd-year { background-color: #8c9df5; color: #162981; }
+.aktu-3rd-year { background-color: #d88dbd; color: #681a4e; }
+.aktu-4th-year { background-color: #87cbb9; color: #1f5349; }
+.aktu-1st-year { background-color: #e7e1a2; color: #a18b15; }
+.previous-year { background-color: #9d97e6; color: #2a2a91; }
+.aktu-handwritten { background-color: #a4d98d; color: #276a2e; }
+.biotechnology { background-color: #8c9df5; color: #162981; }
+.civil-1st-year { background-color: #a4d98d; color: #276a2e; }
+.civil-2nd-year { background-color: #8c9df5; color: #162981; }
+.civil-3rd-year { background-color: #cd8d7d; color: #812f22; }
